@@ -1,0 +1,1 @@
+xargs -a datascientist.txt google-chrome -new-tab "$line"
